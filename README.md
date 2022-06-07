@@ -2,7 +2,7 @@
 
 I have taught Data Structures & Algorithms in Java at ADA University as an Undergraduate Teaching Assistant in Spring 2022.
 
-In this repository, you can find the problems that I take from Leetcode and their solutions as well as explanations to solutions with comments.
+In this repository, you can find the problems that I took from Leetcode and their solutions as well as explanations to solutions with comments.
 
 
 Lecture 1: Recursion
@@ -23,6 +23,17 @@ Note: Recursion is always equivalent to Iteration (at least, theoretically). Wha
 
 Lecture 2: Stack
 
-Valid Paranthesis problem is used to explain how Stack works.
+Valid Parentheses problem is used to explain how Stack works.
 
-Link to the Valid Paranthesis problem on Leetcode: https://leetcode.com/problems/valid-parentheses/
+Link to the Valid Parentheses problem on Leetcode: https://leetcode.com/problems/valid-parentheses/
+
+Lecture 3: Queue, Stack (Continued)
+
+Implement Queue Using Stacks and Implement Stack Using Queues problems are used to explain how both Queue and Stack work.
+
+Link to the Implement Queue Using Stacks problem on Leetcode: https://leetcode.com/problems/implement-queue-using-stacks/
+
+Link to the Implement Stack Using Queues problem on Leetcode: https://leetcode.com/problems/implement-stack-using-queues/
+
+Lecture 4: Linked List
+
