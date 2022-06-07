@@ -5,6 +5,7 @@ I have taught Data Structures & Algorithms in Java at ADA University as an Under
 In this repository, you can find the problems that I take from Leetcode and their solutions as well as explanations to solutions with comments.
 
 Lecture 1: Recursion
+
 Fibonacci Number problem is used to explain how Recursion works.
 Link to the Fibonacci Number Problem on Leetcode: https://leetcode.com/problems/fibonacci-number/
 v0 - Simple Recursion
