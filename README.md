@@ -8,7 +8,8 @@ In this repository, you can find the problems that I take from Leetcode and thei
 Lecture 1: Recursion
 
 Fibonacci Number problem is used to explain how Recursion works.
-Link to the Fibonacci Number Problem on Leetcode: https://leetcode.com/problems/fibonacci-number/
+
+Link to the Fibonacci Number problem on Leetcode: https://leetcode.com/problems/fibonacci-number/
 
 v0 - Simple Recursion
 
@@ -19,3 +20,9 @@ v2 - Recursion Using Memorization with a HashMap
 v3 - Iteration
 
 Note: Recursion is always equivalent to Iteration (at least, theoretically). Whatever you do with Recursion, you can also do with Iteration and vice versa.
+
+Lecture 2: Stack
+
+Valid Paranthesis problem is used to explain how Stack works.
+
+Link to the Valid Paranthesis problem on Leetcode: https://leetcode.com/problems/valid-parentheses/
