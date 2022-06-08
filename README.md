@@ -23,13 +23,13 @@ Note: Recursion is always equivalent to Iteration (at least, theoretically). Wha
 
 Lecture 2: Stack
 
-Valid Parentheses problem is used to explain how Stack works.
+Valid Parentheses problem is used to explain how Stacks work.
 
 Link to the Valid Parentheses problem on Leetcode: https://leetcode.com/problems/valid-parentheses/
 
 Lecture 3: Queue, Stack (Continued)
 
-Implement Queue Using Stacks and Implement Stack Using Queues problems are used to explain how both Queue and Stack work.
+Implement Queue Using Stacks and Implement Stack Using Queues problems are used to explain how both Queues and Stacks work.
 
 Link to the Implement Queue Using Stacks problem on Leetcode: https://leetcode.com/problems/implement-queue-using-stacks/
 
@@ -37,3 +37,10 @@ Link to the Implement Stack Using Queues problem on Leetcode: https://leetcode.c
 
 Lecture 4: Linked List
 
+Merge Two Sorted Lists and Reverse Linked List problems are used to explain how Linked Lists work.
+
+Link to the Merge Two Sorted Lists problem on Leetcode: https://leetcode.com/problems/merge-two-sorted-lists/
+
+Link to the Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/
+
+Lecture 5: 
