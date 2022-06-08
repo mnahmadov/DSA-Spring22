@@ -5,7 +5,7 @@ I have taught Data Structures & Algorithms in Java at ADA University as an Under
 In this repository, you can find the problems that I took from Leetcode and their solutions as well as explanations to solutions with comments.
 
 
-Lecture 1: Recursion
+# Lecture 1: Recursion
 
 Fibonacci Number problem is used to explain how Recursion works.
 
@@ -21,13 +21,13 @@ v3 - Iteration
 
 Note: Recursion is always equivalent to Iteration (at least, theoretically). Whatever you do with Recursion, you can also do with Iteration and vice versa.
 
-Lecture 2: Stack
+# Lecture 2: Stack
 
 Valid Parentheses problem is used to explain how Stacks work.
 
 Link to the Valid Parentheses problem on Leetcode: https://leetcode.com/problems/valid-parentheses/
 
-Lecture 3: Queue, Stack (Continued)
+# Lecture 3: Queue, Stack (Continued)
 
 Implement Queue Using Stacks and Implement Stack Using Queues problems are used to explain how both Queues and Stacks work.
 
@@ -35,7 +35,7 @@ Link to the Implement Queue Using Stacks problem on Leetcode: https://leetcode.c
 
 Link to the Implement Stack Using Queues problem on Leetcode: https://leetcode.com/problems/implement-stack-using-queues/
 
-Lecture 4: Linked List
+# Lecture 4: Linked List
 
 Merge Two Sorted Lists and Reverse Linked List problems are used to explain how Linked Lists work.
 
@@ -43,7 +43,7 @@ Link to the Merge Two Sorted Lists problem on Leetcode: https://leetcode.com/pro
 
 Link to the Reverse Linked List problem on Leetcode: https://leetcode.com/problems/reverse-linked-list/
 
-Lecture 5.1 Binary Search Tree (Intro)
+# Lecture 5.1 Binary Search Tree (Intro)
 
 Search in a Binary Search Tree and Range Sum of BST problems are used to explain how Binary Search Trees work.
 
@@ -51,7 +51,7 @@ Link to the Search in a Binary Search Tree problem on Leetcode: https://leetcode
 
 Link to the Range Sum of BST problem on Leetcode: https://leetcode.com/problems/range-sum-of-bst/
 
-Lecture 5.2: Binary Search Tree (Traversals)
+# Lecture 5.2: Binary Search Tree (Traversals)
 
 Binary Tree Inorder Traversal, Binary Tree Preorder Traversal and Binary Tree Postorder Traversal problems are used to explain traversal algorithms on Binary Search Trees.
 
