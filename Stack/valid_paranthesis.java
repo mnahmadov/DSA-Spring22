@@ -1,3 +1,5 @@
+// Link to the Valid Parentheses problem on Leetcode: https://leetcode.com/problems/valid-parentheses/
+
 // Angle Brackets [], Curly Brackets {}, Paranthesis ()
 // Case 1: ({}}{) Count is okay, order not really, can handle it with counter though
 // Case 2: ([)] Count is okay, order not, counter cannot really help
