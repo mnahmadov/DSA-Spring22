@@ -43,4 +43,16 @@ Link to the Merge Two Sorted Lists problem on Leetcode: https://leetcode.com/pro
 
 Link to the Reverse Linked List: https://leetcode.com/problems/reverse-linked-list/
 
-Lecture 5: 
+Lecture 5.1: Binary Search Tree (Traversals)
+
+Binary Tree Inorder Traversal, Binary Tree Preorder Traversal and Binary Tree Postorder Traversal problems are used to explain traversal algorithms on Binary Search Trees.
+
+Link to the Binary Tree Inorder Traversal problem on Leetcode: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+Link to the Binary Tree Preorder Traversal problem on Leetcode: https://leetcode.com/problems/binary-tree-preorder-traversal/
+
+Link to the Binary Tree Postorder Traversal problem on Leetcode: https://leetcode.com/problems/binary-tree-postorder-traversal/
+
+Note: Each of the problems/traversal algorithms are implemented both recursively and iteratively which should show you the Equivalence of Iteration and Recursion.
+
+Lecture 5.2 Binary Search Tree (Continued)
