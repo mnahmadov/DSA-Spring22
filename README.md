@@ -63,7 +63,7 @@ Link to the Binary Tree Postorder Traversal problem on Leetcode: https://leetcod
 
 Note: Each of the problems/traversal algorithms are implemented both recursively and iteratively which should show you the Equivalence of Iteration and Recursion.
 
-# Lecture 6: Depth First Search
+# Lecture 6: Depth First Search (DFS)
 
 Maximum Depth of Binary Tree and Number of Islands problems are used to explain Depth First Search algorithm on unweighted graphs.
 
@@ -73,10 +73,12 @@ Link to the Number of Islands problem on Leetcode: https://leetcode.com/problems
 
 Note: Depth First Search algorithm does not always provide optimal solution, it may depending on the given input.
 
-# Lecture 7: Breadth First Search
+# Lecture 7: Breadth First Search (BFS)
 
 Binary Tree Level Order Traversal and Minimum Depth of Binary Tree problems are used to explain Breadth First Search algorithm on unweighted graphs.
 
 Link to the Binary Tree Level Order Traversal problem on Leetcode: https://leetcode.com/problems/binary-tree-level-order-traversal/
 
 Link to the Minimum Depth of Binary Tree problem on Leetcode: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+Note: Breadth First Search algorithm does indeed provide optimal solution.
