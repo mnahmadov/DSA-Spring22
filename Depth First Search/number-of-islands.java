@@ -1,3 +1,5 @@
+// Link to the Number of Islands problem on Leetcode: https://leetcode.com/problems/number-of-islands/
+
 class Solution {
     public int numIslands(char[][] grid) {
         if (grid.length == 0 || grid == null){
