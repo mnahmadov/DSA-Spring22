@@ -1,6 +1,5 @@
 // Link to the Range Sum of BST problem on Leetcode: https://leetcode.com/problems/range-sum-of-bst/
 
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
